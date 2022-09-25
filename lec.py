@@ -12,8 +12,4 @@
   #       print(f'{a[i]}')
    # i += 1
 
-day = int(input('введите день недели '))
-if (day >= 6):
-    print (day, '- выходной ура')
-else:
-    print (day, '- нет')
+
